@@ -1,6 +1,6 @@
 # New-YouTube-Adblock-workaround
 #### Detailed description to continue blocking YT ads:
-##### Add the ublock Origin extension in Chrome. In the top right of your browser where you can see your extension icons, click the uBlock Origin icon, then click the gears icon inside the small uBlock origin window to open the Settings. ⁠Click the "My Filters" tab in the 
+#### Add the ublock Origin extension in Chrome. In the top right of your browser where you can see your extension icons, click the uBlock Origin icon, then click the gears icon inside the small uBlock origin window to open the Settings. ⁠Click the "My Filters" tab in the 
 ##### new uBlock Origin Settings window that opened and paste the following code:
 
 
